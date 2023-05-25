@@ -5,6 +5,9 @@
 .mentoring .messages {
     display: none;
 }
+.mentoring .title {
+    color: green;
+}
 
 .mentoring .messages .title1 {
     color: #333333;
